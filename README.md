@@ -34,6 +34,8 @@
 
 
 
+
+
 PhotoShop脚本(PhotoShop Script)是：
 
 * Photoshop最神秘，也是最强大的一个功能。
@@ -45,6 +47,8 @@ PhotoShop脚本(PhotoShop Script)是：
 * PhotoShop脚本主要用于重复性的任务或用于制作非常复杂的特殊效果。
 
 * PhotoShop脚本支持三种script：Visual Basic (Windows) 、Applescript (Mac OS) 和Javascript (跨平台)，这里我们选择Javascript来编写脚本，一来它可以跨平台，二来它也是在编程领域使用最多的一种script。
+
+
 
 
 
