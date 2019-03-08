@@ -1,6 +1,6 @@
 # Photoshop脚本教程
 
-如需更多的Ps脚本教程，可以进入这个苹果商店地址免费下载：https://itunes.apple.com/cn/app/id934815233
+如需完整的Ps脚本教程（共9章110节），可以进入这个苹果商店地址免费下载：https://itunes.apple.com/cn/app/id934815233
 
 学会Photoshop脚本，可以大幅度提高您的工作效率，具体来说您可以：
 
