@@ -1,4 +1,4 @@
-# Photoshop-Ps-
+# Photoshop脚本教程
 
 如需更多的Ps脚本教程，可以进入这个苹果商店地址免费下载：https://itunes.apple.com/cn/app/id934815233
 
@@ -49,4 +49,5 @@ PhotoShop脚本(PhotoShop Script)是：
 
 
 出品：酷课堂
+
 官网：www.coolketang.com
